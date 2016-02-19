@@ -1,0 +1,18 @@
+{
+  "name": "pivas",
+  "version": "1.0.2",
+  "description": "JavaScript framework for scalable web applications.",
+  "keywords": [
+    "pivas",
+    "javascript",
+    "framework"
+  ],
+  "main": "dest/pivas.js",
+  "readmeFilename": "README.md",
+  "license": "MIT",
+  "author": "Shilov Vasily (shcoder.ru@ya.ru)",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shcoder-ru/pivas.js.git"
+  }
+}
